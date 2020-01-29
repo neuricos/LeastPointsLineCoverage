@@ -1,1 +1,1 @@
-# LeastPointsLineCoverage
+# Least Points Line Coverage
